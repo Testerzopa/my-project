@@ -1,1 +1,12 @@
-
+.box1{
+    background-color: red;
+    padding: 100px;
+}
+.box2{
+    background-color: black;
+    padding: 100px;
+}
+.box3{
+    background-color: blue;
+    padding: 100px;
+}
